@@ -1,5 +1,5 @@
 # RexLRScheduler
-RexLRScheduler for timm, a personal and unofficial chatgpt-assisted implementation
+ a personal and unofficial chatgpt-assisted implementation of RexLRScheduler for timm,
 
 Not checked yet!!
 
